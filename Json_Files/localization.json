@@ -1,0 +1,139 @@
+{
+      "emergencynoticev2": {
+
+     "en": {
+"title": "Welcome to PhantomFN",
+       "body": "PhantomFN is made by Phantom#6024"
+     },
+     "de": {
+"title": "Wilkommen to PhantomFN",
+       "body": "PhantomFN wird von Phantom#6024 erstellt"
+     },        
+             "ru": {
+"title": "Добро пожаловать в ФантомФН!",
+       "body": "PhantomFN создан Phantom#6024"
+     },
+             "ua": {
+"title": "Ласкаво просимо до PhantomFN!",
+       "body": "PhantomFN створений Phantom#6024"
+     },
+     "it": {
+"title": "Benvenuto in PhantomFN!",
+       "body": "PhantomFN è stato creato da Phantom#6024"
+     },
+        "fr": {
+"title": "Bienvenue sur PhantomFN!",
+       "body": "PhantomFN est fabriqué par Phantom#6024"
+     },
+        "ja": {
+"title": "ファントムFNへようこそ",
+       "body": "PhantomFNはPhantom#6024によって作られています"
+     },
+  "es": {
+"title": "Bonvenon al PhantomFN!",
+       "body": "PhantomFN és hecho por Phantom#6024"
+     }
+  
+      },
+
+        "news": {
+
+"news1": {
+     "en": {
+           "body": "On 24 February 2022, Russia invaded Ukraine, marking a steep escalation of the Russo-Ukrainian War, which had begun in 2014. You and only you can help Ukraine. Talk about it everywhere so more and more countries would help Ukraine so war would stop and less inocent people would die!",
+            "title": "PhantomFN #StandWithUkraine",
+            "titleonswitcher": "PhantomFN #StandWithUkraine"
+     },
+     "de": {
+           "body": "Am 24. Februar 2022 marschierte Russland in die Ukraine ein und markierte damit eine steile Eskalation des Russisch-Ukrainischen Krieges, der 2014 begann. Sie und nur Sie können der Ukraine helfen. Sprechen Sie überall darüber, damit mehr Länder mehr sind. Helfen Sie der Ukraine, damit der Krieg aufhört und weniger unschuldige Menschen sterben können!",
+            "title": "PhantomFNN #StandWithUkraine",
+            "titleonswitcher": "PhantomFN #StandWithUkraine"
+     },        
+     "ru": {
+           "body": "24 февраля 2022 года Россия вторглась в Украину, ознаменовав резкую эскалацию российско-украинской войны, начавшейся в 2014 году. Вы и только вы можете помочь Украине. Говорите об этом везде, чтобы все больше и больше стран помогали Украине, чтобы прекратилась война и погибло меньше невинных людей!",
+            "title": "PhantomFN #StandWithUkraine",
+            "titleonswitcher": "PhantomFN #StandWithUkraine"
+     },
+     "ua": {
+           "body": "24 лютого 2022 року Росія вторглася в Україну, ознаменувавши різку ескалацію російсько-української війни, яка розпочалася у 2014 році. Ви і тільки можете допомогти Україні. Говоріть про цей скрізь, щоб все більше і більше країн допомагали Україні, щоб припинилася війна та загинуло менше безневинних людей",
+            "title": "PhantomFN #StandWithUkraine",
+            "titleonswitcher": "PhantomFN #StandWithUkraine"
+     },  
+     "it": {
+           "body": "il 24 Febbraio del 2022, la Russia invase l'Ucraina, segnando una ripida escalazione della guerra Russo-Ucraina, che era iniziata nel 2014. Voi e solo voi potete aiutare l'Ucraina. Parlatene dapperture così che più è più paesi possano aiutare l'Ucraina così che la guerra si possa fermare e meno gente innocente possa morire!",
+            "title": "PhantomFNN #StandWithUkraine",
+            "titleonswitcher": "PhantomFN #StandWithUkraine"
+     },
+     "pt": {
+           "body": "Em 24 de fevereiro de 2022, a Rússia invadiu a Ucrânia, marcando uma escalada acentuada na Guerra Russo-Ucraniana, que começou em 2014. Tu e somente tu podes ajudar a Ucrânia. Fala sobre isto em todos os lugares para que mais e mais países ajudem Ucrânia para que a guerra pare e menos pessoas inocentes morram!",
+            "title": "PhantomFN #StandWithUkraine",
+            "titleonswitcher": "PhantomFN #StandWithUkraine"
+     },
+     "fr": {
+"body": "Le 24 février 2022, la Russie a envahi l'Ukraine, marquant une forte escalade de la guerre russo-ukrainienne, qui avait commencé en 2014. Vous et vous seul pouvez aider l'Ukraine. Parlez-en partout pour que de plus en plus de pays aident Ukraine pour que la guerre s'arrête et que moins d'innocents meurent!",
+            "title": "PhantomFN #StandWithUkraine",
+            "titleonswitcher": "PhantomFN #StandWithUkraine"
+     },
+     "ja": {
+           "body": "On 24 February 2022, Russia invaded Ukraine, marking a steep escalation of the Russo-Ukrainian War, which had begun in 2014. You and only you can help Ukraine. Talk about it everywhere so more and more countries would help Ukraine so war would stop and less inocent people would die!",
+            "title": "PhantomFN #StandWithUkraine",
+            "titleonswitcher": "PhantomFN #StandWithUkraine"
+     },
+    "es": {
+           "body": "En el 24 de febrero de 2022, Rusia invadió Ucrania, marcando una fuerte escalada en la guerra ruso-ucraniana que comenzó en 2014. Tú y sólo tú puedes ayudar a Ucrania. Hablen de esto en todas partes para que cada vez más países ayuden a Ucrania, para que la guerra se detenga y mueran menos inocentes",
+            "title": "PhantomFN #StandWithUkraine",
+            "titleonswitcher": "PhantomFN #StandWithUkraine"
+     }
+},
+"news2": {
+     "en": {
+           "body": "Me and many other people are working on translating everything about PhantomFN so everyone would understand everything. If you want to help translating to your language dm me in discord (Phantom#6024)",
+            "title": "Language support inside PhantomFN!",
+            "titleonswitcher": "Language support"
+     },
+     "de": {
+"body": "Ich und viele andere Leute arbeiten daran, alles über PhantomFN zu übersetzen, damit jeder alles versteht. Wenn Sie helfen wollen, in Ihre Sprache zu übersetzen, Senden Sie mir eine private Nachricht auf discord (Phantom#6024)",
+            "title": "Sprachunterstützung innerhalb von PhantomFN!",
+            "titleonswitcher": "Sprachunterstützung"
+     },        
+     "ru": {
+"body": "Я и многие другие люди работаем над переводом всего о PhantomFN, чтобы все все поняли. Если вы хотите помочь с переводом на свой язык, напишите мне в Discord (Phantom#6024)",
+            "title": "Языковая поддержка внутри PhantomFN!",
+            "titleonswitcher": "Поддержка языков"
+     },
+     "ua": {
+"body": "Я і багато інших людей працюємо над перекладом всього про PhantomFN, щоб усі всі зрозуміли. Якщо ви хочете допомогти з перекладом на свою мову, напишіть мені в Discord (Phantom#6024)",
+            "title": "Мовна підтримка усередині PhantomFN!",
+            "titleonswitcher": "Підтримка мов"
+     },
+     "it": {
+"body": "Io e molte altre persone stiamo lavorando sulla traduzione di tutto ciò che riguarda PhantomFN in modo che tutti capiscano tutto. Se vuoi aiutare a tradurre nella tua lingua scrivimi in privato su discord (Phantom#6024)",
+            "title": "Supporto linguistico all'interno di PhantomFN!",
+            "titleonswitcher": "Supporto linguistico"
+     },
+     "pt": {
+"body": "Eu e muitas outras pessoas estamos trabalhando na tradução de tudo sobre o PhantomFN para que todos entendam tudo. Se você quiser ajudar a traduzir para seu idioma dm me em discórdia (Phantom#6024)",
+            "title": "Apoio linguístico",
+            "titleonswitcher": "Supporto linguistico"
+     },
+     "fr": {
+"body": "Moi et beaucoup d'autres personnes travaillons à tout traduire sur PhantomFN afin que tout le monde comprenne tout. Si vous voulez aider à traduire dans votre langue, dm me in discord (Phantom#6024)",
+            "title": "Prise en charge des langues dans PhantomFN !",
+            "titleonswitcher": "Prise en charge de la langue"
+     },
+     "ja": {
+           "body": "Me and many other people are working on translating everything about PhantomFN so everyone would understand everything. If you want to help translating to your language dm me in discord (Phantom#6024)",
+            "title": "Language support inside PhantomFN!",
+            "titleonswitcher": "Language support"
+     },
+    "es": {
+"body": "Yo y muchas otras personas estamos trabajando en la traducción de todo lo relacionado con PhantomFN para que todo el mundo lo entienda. Si quieres ayudar a traducir a tu idioma dm en discordia (Phantom#6024)",
+            "title": "¡Soporte de idiomas dentro de PhantomFN!",
+            "titleonswitcher": "Apoyo lingüístico"
+     }
+          }
+  
+      }
+  
+  
+}

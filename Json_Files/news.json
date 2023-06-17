@@ -1,0 +1,79 @@
+{
+    "contentType": "collection",
+    "contentId": "motd-default-collection",
+    "tcId": "cca20b46-eb7d-4852-94b9-8479ddb53b2d",
+    "contentItems": [
+      {
+        "contentType": "content-item",
+        "contentId": "753b2fed-a492-4e11-a34f-9741cc739d47",
+        "tcId": "9b89584d-0711-4269-980d-09d50d04f857",
+        "contentFields": {
+          "body": "On 24 February 2022, Russia invaded Ukraine, marking a steep escalation of the Russo-Ukrainian War, which had begun in 2014. You and only you can help Ukraine. Talk about it everywhere so more and more countries would help Ukraine so war would stop and less inocent people would die!",
+          "entryType": "Text",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://cdn.reksfn.ml/cdn/ReksFN/Images/standwithukraine_1920x1080.jpeg"
+            },
+            {
+              "width": 960,
+              "height": 540,
+              "url": "https://cdn.reksfn.ml/cdn/ReksFN/Images/standwithukraine_960x540.jpeg"
+            }
+          ],
+          "tabTitleOverride": "PhantomFN #StandWithUkraine",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://cdn.reksfn.ml/cdn/ReksFN/Images/standwithukraine_1024x512.jpeg"
+            }
+          ],
+          "title": "PhantomFN #StandWithUkraine",
+          "videoAutoplay": false,
+          "videoLoop": false,
+          "videoMute": false,
+          "videoStreamingEnabled": true,
+          "videoUID": "lToVtdkhCVNfmDitXU",
+          "videoVideoString": "d1ksg1b"
+        },
+        "contentSchemaName": "MotdTextNewsWithVideo"
+      },
+      {
+        "contentType": "content-item",
+        "contentId": "753b2fed-a492-4e11-a34f-9741cc739d47",
+        "tcId": "9b89584d-0711-4269-980d-09d50d04f857",
+        "contentFields": {
+          "body": "Me and many other people are working on translating everything about ReksFN so everyone would understand everything. If you want to help translating to your language dm me in discord (reksy#0001)",
+          "entryType": "Text",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://cdn-live.prm.ol.epicgames.com/prod/f6024b9b50211e4d5223cc28c0450f97eb90c5e2e835505539f6ad39afa17c9951ca7e899b1da5ed6e8bedac7bf43029-cc90cf52-f601-4a65-b625-2a99e17d83a8.jpeg?width=1920"
+            },
+            {
+              "width": 960,
+              "height": 540,
+              "url": "https://cdn-live.prm.ol.epicgames.com/prod/f6024b9b50211e4d5223cc28c0450f97eb90c5e2e835505539f6ad39afa17c9951ca7e899b1da5ed6e8bedac7bf43029-cc90cf52-f601-4a65-b625-2a99e17d83a8.jpeg?width=960"
+            }
+          ],
+          "tabTitleOverride": "Language support",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://cdn-live.prm.ol.epicgames.com/prod/f6024b9b50211e4d5223cc28c0450f971acfa1d906aa0a5efdd8b18bed740faf3b926e8fea79ebfa8ba490770365bf67-b730a2cf-715e-4387-9670-e47be8494f36.jpeg?width=1024"
+            }
+          ],
+          "title": "Language support inside Phantomfn!",
+          "videoAutoplay": false,
+          "videoLoop": false,
+          "videoMute": false,
+          "videoStreamingEnabled": false
+        },
+        "contentSchemaName": "MotdTextNewsWithVideo"
+      }
+    ]
+  }
